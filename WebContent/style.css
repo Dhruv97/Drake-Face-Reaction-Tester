@@ -1,0 +1,71 @@
+/*!
+ * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+   
+    
+}
+
+#header {
+	width:100%;
+	height:80px;
+	background-color: pink;
+	margin-top: -30px;
+	
+}
+#header h1 {
+	text-align: center;
+	font-size: 65px;
+	color: black;
+}
+
+.supporting  {
+	height:735px;
+	width:100%;
+  padding-top: 88px;
+  padding-bottom: 0px;
+  
+  background: url(hotlinebling.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: local;
+  
+ 
+  
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(Drake-Neue-Regular.otf);
+}
+h1 {
+	text-align: center;
+	font-family: myFirstFont;
+	font-size: 20px;
+	color:white;
+}
+.img-responsive {
+	
+	
+    margin: 0 auto 0px;
+    margin-top:50px;
+    height:100px;
+    width:150px;
+    display:none;
+    
+	
+}
+
+.container {
+	height: 500px;
+	width:100%;
+}
+
